@@ -1,9 +1,8 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Erzhan Oktybrev** (*180100012*)- Backend Developer (GitHub account: *jetlee*)
-+ **Baurzhan Yerkeshev** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
-+ **Ramazan** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
-+ **Alibe Tangirkul** (180103237) - Project Manager, Database developer (GitHub account: *alibeksdu*)
++ **jetlee** (*180100012*)- Backend Developer (GitHub account: *jetlee*)
++ **jackychan** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
+
 
 
 ## Project
