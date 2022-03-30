@@ -1,23 +1,25 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Erzhan Oktybrev** (*180100012*)- Backend Developer (GitHub account: *jetlee*)
-+ **Baurzhan Yerkeshev** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
-+ **Ramazan Baktibaiyly**
-+ **Dias Omarov** 
++ **Erzhan Oktybrev** (*180100012*)- UX/UI design (GitHub account: *yerzhanz*)
++ **Baurzhan Yerkeshev** (*180100013*) - Frontend Developer (GitHub account: *baurzhanz*)
++ **Ramazan Baktibaiyly** (*180103111*) - Backend Developer (GitHub account: *ramazanz*)
++ **Dias Omarov** (*180103111*) - Fontend Developer (GitHub account: *diasz*)
 + **Alibek Tangirkul** (*180103237*) - Project Manager, Database developer (GitHub account: *alibeksdu*)
 
 
 
 ## Project
-This project is yet-another clone of Instagram
+BookBerry is web application for book lovers. It can be used as a reader and libarary from various top books. The percularity of this program is that the creators do not need to add a bunch of books  every day. The users of this program work for them. 
 
 ## Alternatives / Market research
 | Research alternatives
+Amazon, Marwin, Meloman
 
-## Goals
 
 ## Technologies
-In our project we use **Laravel**, **VueJS**
+In our project we use for Design: **Figma**, **AdobePhotoshop**
+Frontend stack: **HTML**, **CSS**, **ReactJS**, **MUI kit**
+Backend stack: **Java**, **SpringBoot**, **Tomcat** DB: **PostgreSQL**
 
 ## Pages / Activities 
 We will have following pages:
@@ -28,10 +30,10 @@ We will have following pages:
 - Settings page
 
 ## Goals
-* What is the purpose of this project?
-* What are the problems it will solve?
-* How will it streamline or improve the current process or facilitate a new process?
-* What is the product vision?
+* Give the user the opportunity to buy, sell and exchange books among users.
+* Ability to find books that can not be found on the benches
+* Convenient platform for selling user books
+* Our vision is that reading is cool
 
 ## User Personas
 *Write description of user personas here*  
