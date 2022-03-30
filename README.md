@@ -53,7 +53,7 @@ We will have following pages:
 *What are the risks?*
 
 ## Mockups, Wireframes
-*Put here images of your wireframes*
+*https://drive.google.com/drive/folders/1hXisJZQ0jJWtafeQWS2uoDaMDHxHclZ8?usp=sharing*
 
 ## Future iterations
 *Write your future iterations*
