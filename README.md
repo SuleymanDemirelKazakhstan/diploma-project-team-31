@@ -44,7 +44,7 @@ We will have following pages:
 
 ## Sitemap, Page descriptions
 
-*https://drive.google.com/drive/folders/1hXisJZQ0jJWtafeQWS2uoDaMDHxHclZ8?usp=sharing*
+*Sitemap*
 
 ## Non-Functional requirements
 *Write non-functional requirements*
