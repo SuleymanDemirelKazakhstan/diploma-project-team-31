@@ -23,10 +23,10 @@ Backend stack: **Java**, **SpringBoot**, **Tomcat** DB: **PostgreSQL**
 
 ## Pages / Activities 
 We will have following pages:
-- Latest posts of friends
-- Posts from location of user
-- Take a photo page
-- Personal page
+- Main page
+- Book page
+- FAQ
+- Login page
 - Settings page
 
 ## Goals
