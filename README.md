@@ -1,9 +1,9 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Erzhan Oktybrev** (*180100012*)- UX/UI design (GitHub account: *yerzhanz*)
-+ **Baurzhan Yerkeshev** (*180100013*) - Frontend Developer (GitHub account: *baurzhanz*)
-+ **Ramazan Baktibaiyly** (*180103111*) - Backend Developer (GitHub account: *ramazanz*)
-+ **Dias Omarov** (*180103111*) - Fontend Developer (GitHub account: *diasz*)
++ **Erzhan Oktybrev** (*180103123*)- UX/UI design (GitHub account: *yerzhanz*)
++ **Baurzhan Yerkeshev** (*180103130*) - Frontend Developer (GitHub account: *baurzhanz*)
++ **Ramazan Baktibaiyly** (*180103153*) - Backend Developer (GitHub account: *ramazanz*)
++ **Dias Omarov** (*180103149*) - Fontend Developer (GitHub account: *diasz*)
 + **Alibek Tangirkul** (*180103237*) - Project Manager, Database developer (GitHub account: *alibeksdu*)
 
 
