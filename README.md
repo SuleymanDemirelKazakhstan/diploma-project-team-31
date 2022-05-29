@@ -2,7 +2,7 @@
 ## Team members
 + **Yerzhan Oktybrev** (*180103123*)- UX/UI design (GitHub account: *YerzhanOktyabrev11*)
 + **Bauyrzhan Yerkeshev** (*180103130*) - Frontend Developer (GitHub account: *BauyrzhanYerkeshev*)
-+ **Ramazan Baktybaiuly** (*180103153*) - Backend Developer (GitHub account: *ramazanz*)
++ **Ramazan Baktybaiuly** (*180103153*) - Backend Developer (GitHub account: *Baktybaiuly*)
 + **Dias Omarov** (*180103149*) - Fontend Developer (GitHub account: *diasz*)
 + **Alibek Tangirkul** (*180103237*) - Project Manager, Database developer (GitHub account: *alibeksdu*)
 
