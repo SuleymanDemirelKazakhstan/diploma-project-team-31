@@ -1,5 +1,6 @@
 package com.project.bookberry.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -37,10 +38,16 @@ public class Books {
     private Double rating;
 
     @Column(name = "discount")
-    private Integer discount;
+    private Integer discount = 0;
 
     @Column(name = "language")
     private Integer language;
+
+    @Column(name = "sold_count")
+    private Integer soldCount = 0;
+
+    @Column(name = "quantity")
+    private Integer quantity;
 
     @ManyToOne(cascade = CascadeType.REFRESH)
     @JoinColumn(name = "publisher_id", referencedColumnName = "id")

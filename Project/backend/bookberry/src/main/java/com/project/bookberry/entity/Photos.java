@@ -20,6 +20,6 @@ public class Photos {
     @Column(name = "name")
     private String name;
 
-    @Column(name = "url")
+    @Column(name = "url", columnDefinition = "TEXT")
     private String url;
 }
