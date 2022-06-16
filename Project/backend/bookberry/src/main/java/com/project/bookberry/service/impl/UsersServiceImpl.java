@@ -10,6 +10,7 @@ import com.project.bookberry.exception.EntityNotFoundException;
 import com.project.bookberry.repo.RolesRepo;
 import com.project.bookberry.repo.UsersRepo;
 import com.project.bookberry.service.UsersService;
+import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
@@ -23,6 +24,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 @Service
+@RequiredArgsConstructor
 public class UsersServiceImpl implements UsersService {
 
     @Autowired
@@ -32,7 +34,7 @@ public class UsersServiceImpl implements UsersService {
     private UsersRepo usersRepo;
 
     @Autowired
-    private BCryptPasswordEncoder encoder;
+    private final BCryptPasswordEncoder encoder;
 
     @Autowired
     private RolesRepo rolesRepo;

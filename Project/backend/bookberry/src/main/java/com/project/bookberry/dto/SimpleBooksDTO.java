@@ -7,6 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class LoginResponseDTO {
-    private String token;
+public class SimpleBooksDTO {
+    private Long id;
+    private Integer amount;
 }
